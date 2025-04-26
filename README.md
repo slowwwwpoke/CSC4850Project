@@ -11,5 +11,5 @@ Preprocessing each dataset
 Run each code sequentially, resize -> denoise -> normalization.
 
 Models
-CNN Convolutional Neural Network
+Convolutional Neural Network
 
