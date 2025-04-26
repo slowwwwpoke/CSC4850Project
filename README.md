@@ -12,5 +12,4 @@ Run each code sequentially, resize -> denoise -> normalization.
 
 Models
 CNN Convolutional Neural Network
-Hybrid Pretrained CNN + SVM
-Vision Transformer
+
